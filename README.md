@@ -10,7 +10,7 @@
     - [Erstellt mit](#erstellt-mit)
     - [In Planung](#in-plannung)
   - [Nutzung](#nutzung)
-    - [Loslegen](#loslegen)
+    - [**Loslegen**](#loslegen)
 
 ## Motivation
 
