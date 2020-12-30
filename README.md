@@ -59,4 +59,4 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
 ### Direkt loslegen
 
 Am besten lässt sich das Notebook über [*nbviewer*](https://nbviewer.jupyter.org/github/nicokossmann/Wahrscheinlichkeitsverteilungen/blob/main/statistik.ipynb) ansehen.
-Um mit dem Notebook in *nbviewer* interagieren zu können, nutzt man das integrierte Tool *Binder*. 
+Um mit dem Notebook in *nbviewer* interagieren zu können, nutzt man das integrierte Tool *Binder*.
