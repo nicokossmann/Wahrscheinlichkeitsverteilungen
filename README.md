@@ -36,6 +36,7 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
     * Geometrische Verteilung
     * Hypergeometrische Verteilung
   * **kontinuierliche Verteilungen:**
+    * Gammaverteilung
     * Exponentialverteilung
     * Normalverteilung
 
@@ -52,7 +53,6 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
 * **kontinuierliche Verteilungen:**
   * Gleichverteilung
   * Beta-Verteilung
-  * Gamma-Verteilung
 
 ## Nutzung
 
