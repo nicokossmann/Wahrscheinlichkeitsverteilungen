@@ -49,10 +49,8 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
 
 ### In Planung
 
-* **diskrete Verteilungen:**
-  * Gleichverteilung
-* **kontinuierliche Verteilungen:**
-  * Gleichverteilung
+* Kurzbeschreibung der Verteilungen
+* Verbesserung der Formeln
 
 ## Nutzung
 
