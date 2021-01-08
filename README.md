@@ -21,7 +21,7 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
 
 ### Features
 
-* Notebook beinhaltet zu jeder Verteilung:
+* Notebook beinhaltet zu jeder Verteilung: 
   * Wahrscheinlichkeits-/Dichtefunktion
   * Erwartungswert
   * Varianz
@@ -29,6 +29,7 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
   * Kumulative Verteilungsfunktion
 * Thematisierte Verteilungen:
   * **diskrete Verteilungen:**
+    * Diskrete Gleicherverteilung 
     * Bernoulliverteilung
     * Binomialverteilung
     * Poissonverteilung
@@ -36,6 +37,7 @@ habe ich eine Übersicht über die in der Vorlesung vorgestellten Wahrscheinlich
     * Geometrische Verteilung
     * Hypergeometrische Verteilung
   * **kontinuierliche Verteilungen:**
+    * Kontinuierliche Gleichverteilung
     * Gammaverteilung
     * Betaverteilung
     * Exponentialveilung
